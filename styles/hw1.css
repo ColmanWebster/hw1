@@ -1,0 +1,66 @@
+
+#cont{
+    border: 1px solid black;
+    width: 300px;
+    background-image: url("../images/image_55.png");
+    background-size: cover;
+    
+}
+
+#cont2{
+    margin: 0 10px 0 10px;
+    text-align: center;
+    color: white;
+    
+}
+
+#img{
+    background-image: url("../images/image_7.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 250px;
+    width: 250px;
+    margin: 0 auto 0 auto;
+    
+}
+
+p{
+    margin: 5px 0 5px 0;
+    line-height: .8;
+}
+
+hr{
+    margin: 10px 5px 20px 5px;
+    height: 2px;
+    background-color: grey;
+}
+
+h1{
+    margin: 0 auto 20px 60px;
+    
+}
+
+h2{
+    margin: 10px auto 20px 65px;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    
+}
+
+button{
+    border-style: outset 1px black;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 20px 0 10px 0;
+}
+
+button:hover{
+    border-style: inset;
+}
